@@ -1,4 +1,4 @@
-<h2>REACT.JS</h2> <br><br>
+<h2>REACT.JS</h2> <br>
 
 <h3><b>⚛️ What is React.js?</b></h3><br>
 React.js is a JavaScript library used to build User Interfaces (UI).<br>
